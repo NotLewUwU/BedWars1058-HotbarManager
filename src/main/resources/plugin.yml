@@ -1,0 +1,7 @@
+name: Hbmanager
+version: '${project.version}'
+main: me.notlewx.hbmanager.main
+prefix: BedWars1058-HotbarManager
+softdepend: [ BedWars1058 ]
+authors: [ NotLew_x ]
+description: Adds the classic HotbarManager from a well known server!
